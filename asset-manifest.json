@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/construction-page/static/css/main.4fa59d95.css",
+    "main.js": "/construction-page/static/js/main.9bd446a5.js",
+    "static/media/achraflogo.jpg": "/construction-page/static/media/achraflogo.0c81cfacf86c4083fd23.jpg",
+    "index.html": "/construction-page/index.html",
+    "main.4fa59d95.css.map": "/construction-page/static/css/main.4fa59d95.css.map",
+    "main.9bd446a5.js.map": "/construction-page/static/js/main.9bd446a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fa59d95.css",
+    "static/js/main.9bd446a5.js"
+  ]
+}
